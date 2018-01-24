@@ -17,7 +17,7 @@ Important warning: this tool may arm your HDD, you are the only one to
 be responsible if your HDD has been destructed, either entirely or not,
 by this tool.
 
-## __Compilation under windows___
+## __Compilation under windows__
 Tested under Visual studio 2017 in the following configurations:
 - X86 - Debug
 - X86 - Release
