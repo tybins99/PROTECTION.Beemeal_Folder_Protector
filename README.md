@@ -19,7 +19,7 @@ by this tool.
 
 ## __Compilation under windows___
 Tested under Visual studio 2017 in the following configurations:
-X86 - Debug
-X86 - Release
-X64 - Debug
-X64 - Release
+- X86 - Debug
+- X86 - Release
+- X64 - Debug
+- X64 - Release
